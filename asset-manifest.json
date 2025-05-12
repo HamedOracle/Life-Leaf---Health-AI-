@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.69fa0588.css",
+    "main.js": "/static/js/main.1a3c6946.js",
+    "static/js/787.abdda4cb.chunk.js": "/static/js/787.abdda4cb.chunk.js",
+    "static/media/regimimg.png": "/static/media/regimimg.3088d14c5b15a7555f15.png",
+    "static/media/logo.png": "/static/media/logo.0b2609d37b212430bd66.png",
+    "static/media/Dana.ttf": "/static/media/Dana.a0219a3c33cfc093d960.ttf",
+    "static/media/bmi1.png": "/static/media/bmi1.36f03a821b369e5788e2.png",
+    "static/media/bmi2.png": "/static/media/bmi2.09a3b5bfd3167f3eda39.png",
+    "static/media/start.svg": "/static/media/start.393b8c9ef770a46397b49a59d6b744cb.svg",
+    "static/media/support.png": "/static/media/support.742caae5101d98ae2c49.png",
+    "static/media/error1.png": "/static/media/error1.b71c722e5d8b7c36e7c4.png",
+    "static/media/restaurant.png": "/static/media/restaurant.1ac9095b202211c1ca48.png",
+    "static/media/worried-business-person-svgrepo-com.svg": "/static/media/worried-business-person-svgrepo-com.1917f83e91591557db297669999de82d.svg",
+    "static/media/dumbbell.png": "/static/media/dumbbell.f119477aac3156456572.png",
+    "static/media/shopping-cart.png": "/static/media/shopping-cart.b8c6893e32605ab9fb4e.png",
+    "static/media/dinner-food-svgrepo-com.svg": "/static/media/dinner-food-svgrepo-com.e368e0edba360286f76cff52b2695e92.svg",
+    "static/media/meal-lunch-svgrepo-com.svg": "/static/media/meal-lunch-svgrepo-com.670f9a43083f72b9b496438064ea1b6f.svg",
+    "static/media/breakfast-svgrepo-com.svg": "/static/media/breakfast-svgrepo-com.22b682cba1f1f80c75884c111966e14e.svg",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/popcorn-one-svgrepo-com.svg": "/static/media/popcorn-one-svgrepo-com.772dea969762c99518906c6655dbc322.svg",
+    "static/media/fellow-manage-recruiter-svgrepo-com.svg": "/static/media/fellow-manage-recruiter-svgrepo-com.1f018d1808d2b7ca40477b32c134e07a.svg",
+    "index.html": "/index.html",
+    "main.69fa0588.css.map": "/static/css/main.69fa0588.css.map",
+    "main.1a3c6946.js.map": "/static/js/main.1a3c6946.js.map",
+    "787.abdda4cb.chunk.js.map": "/static/js/787.abdda4cb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69fa0588.css",
+    "static/js/main.1a3c6946.js"
+  ]
+}
